@@ -1,5 +1,5 @@
-import React from 'react'
-import { render } from 'react-dom'
-import Streemz from './components/Streemz.container'
+import React from "react";
+import { render } from "react-dom";
+import Streemz from "./components/Streemz";
 
-render(<Streemz />, document.querySelector('#root'))
+render(<Streemz />, document.querySelector("#root"));
